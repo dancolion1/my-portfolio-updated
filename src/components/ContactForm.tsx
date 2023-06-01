@@ -95,7 +95,7 @@ function ContactForm() {
                 <ErrorMessage name="message" />
               </div>
           </div>
-          <button type="submit" className='p-4 bg-slate-900 rounded-lg text-white flex flex-row items-center justify-center'>Submit</button>
+          <button type="submit" className='p-4 bg-slate-900 rounded-lg text-white flex flex-row items-center justify-center '>Submit</button>
         </Form> 
     </Formik>
     
